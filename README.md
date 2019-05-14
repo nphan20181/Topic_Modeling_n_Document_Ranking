@@ -1,0 +1,3 @@
+# Topic Modeling & Document Ranking
+
+As mentioned by [Waterford Technologies](https://waterfordtechnologies.com/big-data-interesting-facts/), "the volume of business data worldwide, across all organizations, doubles every 1.2 years". With an overwhelming amount of data available nowadays, the task of finding relevant information for a research topic may often take several days, weeks, or months. This project focuses on extracting topics from a large collection of textual information to help researchers, academic professionals, and students to quickly identify relevant documents for their topics while minimizing the time and effort put into the information collection and reviewing process.

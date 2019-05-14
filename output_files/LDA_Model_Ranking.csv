@@ -1,0 +1,334 @@
+,Document,Words in LDA Topic,LDA Topic,LDA Score
+156,22285168,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9977999925613403
+140,21415216,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9976999759674072
+69,18166835,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9976000189781189
+166,22613337,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9975000023841858
+104,19386350,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9975000023841858
+210,24496003,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9975000023841858
+41,16818686,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9973999857902527
+240,25558790,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9973000288009644
+199,23769345,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9970999956130981
+147,21725039,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9970999956130981
+233,25265433,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9970999956130981
+230,25144242,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.996999979019165
+256,25839699,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.996999979019165
+216,24777808,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9969000220298767
+84,18509184,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9969000220298767
+125,20552223,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9969000220298767
+93,18981003,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9968000054359436
+213,24674157,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9968000054359436
+189,23443800,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9968000054359436
+103,19383809,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9968000054359436
+59,17625570,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9966999888420105
+111,19737969,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9966999888420105
+288,26988828,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9966999888420105
+211,24585406,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9966999888420105
+253,25785456,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9966999888420105
+155,22240786,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9966999888420105
+97,19147828,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9966999888420105
+58,17610986,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9965999722480774
+116,20015198,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9965999722480774
+36,16503086,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9965999722480774
+190,23453647,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9965999722480774
+87,18520300,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9965000152587891
+172,22908099,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9965000152587891
+135,21245935,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9965000152587891
+130,20935334,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9965000152587891
+226,25096400,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.996399998664856
+145,21656749,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.996399998664856
+73,18242762,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.996399998664856
+277,26603857,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.996399998664856
+243,25611025,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.996399998664856
+313,AACR_2016-269,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.996399998664856
+318,ASCO_144153-156,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9962999820709229
+25,15815732,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9962999820709229
+114,19949333,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9962000250816345
+299,27659294,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9962000250816345
+283,26755435,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9962000250816345
+316,ASCO_110355-132,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9962000250816345
+146,21677482,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9961000084877014
+307,AACR_2013-1196,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9961000084877014
+179,23018906,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9961000084877014
+88,18593892,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9961000084877014
+55,17545799,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9961000084877014
+321,ASCO_181965-199,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9961000084877014
+50,17385949,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9959999918937683
+221,24916999,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9959999918937683
+12,14717479,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9958999752998352
+252,25740311,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9958999752998352
+232,25238939,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9958999752998352
+76,18320074,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9958999752998352
+271,26354324,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9958000183105469
+329,ASCO_74925-102,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9958000183105469
+209,24435321,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9958000183105469
+115,20009909,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9958000183105469
+317,ASCO_129081-144,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9958000183105469
+269,26301689,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9958000183105469
+33,16401709,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9958000183105469
+255,25823662,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9958000183105469
+48,17196360,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9958000183105469
+276,26571844,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9957000017166138
+295,27385982,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9955999851226807
+4,12389876,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9955999851226807
+63,17686547,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9955999851226807
+183,23301645,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9955999851226807
+308,AACR_2013-3394,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9955000281333923
+95,19032370,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9955000281333923
+323,ASCO_190888-199,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9955000281333923
+169,22772433,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9955000281333923
+101,19335275,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9955000281333923
+127,20627894,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9954000115394592
+274,26514492,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9954000115394592
+324,ASCO_191981-199,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9952999949455261
+86,18519520,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9952999949455261
+39,16718773,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9952999949455261
+320,ASCO_169345-176,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9952999949455261
+21,15674500,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9952999949455261
+279,26637922,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9952999949455261
+319,ASCO_150799-156,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.995199978351593
+92,18778561,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.995199978351593
+32,16357454,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.995199978351593
+7,12783584,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.995199978351593
+78,18394167,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.995199978351593
+331,ASCO_94519-114,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.995199978351593
+251,25735977,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.995199978351593
+284,26768165,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.995199978351593
+64,17761719,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.995199978351593
+11,14686698,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9951000213623047
+121,20418096,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9951000213623047
+38,16618383,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9951000213623047
+293,27132509,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9950000047683716
+54,17512858,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9950000047683716
+196,23664446,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9950000047683716
+231,25232377,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9950000047683716
+124,20551113,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9950000047683716
+65,17922620,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9948999881744385
+314,AACR_2016-677,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9948999881744385
+10,14682111,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9948999881744385
+13,14735360,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9948999881744385
+297,27525836,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9947999715805054
+5,12392638,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9947999715805054
+282,26720290,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9947999715805054
+332,ASCO_98145-114,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.994700014591217
+56,17548322,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.994700014591217
+18,15510603,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.994700014591217
+57,17588355,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9945999979972839
+90,18718191,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9945999979972839
+51,17430686,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9945999979972839
+80,18409663,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9945999979972839
+85,18514701,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9944999814033508
+83,18487909,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9944000244140625
+96,19064915,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9944000244140625
+151,22017446,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9943000078201294
+94,19006610,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9943000078201294
+296,27509958,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9943000078201294
+91,18760859,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9943000078201294
+157,22296236,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9943000078201294
+261,25971657,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9941999912261963
+260,25960661,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9941999912261963
+37,16534250,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9941999912261963
+6,12394270,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9941999912261963
+60,17661208,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9941999912261963
+66,17923802,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9940999746322632
+26,15966213,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9940000176429749
+61,17667604,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9940000176429749
+244,25629371,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9939000010490417
+153,22119437,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9937999844551086
+20,15537379,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9937999844551086
+9,12897659,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9937999844551086
+222,24934821,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9936000108718872
+100,19272232,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9934999942779541
+74,18252146,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9934999942779541
+122,20469993,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9934999942779541
+161,22454182,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.993399977684021
+113,19914780,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.993399977684021
+112,19890095,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9933000206947327
+102,19381023,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9933000206947327
+298,27588191,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9933000206947327
+70,18180842,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9932000041007996
+215,24760634,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9930999875068665
+134,21177210,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9929999709129333
+138,21337345,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9929999709129333
+49,17356951,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9929999709129333
+110,19735005,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.992900013923645
+142,21475126,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.992900013923645
+139,21368458,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9926999807357788
+35,16437930,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9926000237464905
+188,23425902,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9925000071525574
+303,27836576,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9921000003814697
+34,16423961,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9919999837875366
+99,19248972,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9919999837875366
+229,25120654,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9918000102043152
+16,15283152,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9916999936103821
+173,22912387,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.991599977016449
+204,24155153,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.991599977016449
+152,22093639,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9912999868392944
+259,25940171,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9912999868392944
+177,22993539,"alk,eml4,eml4 alk,fusion,genetics,gene,alk fusion,nsclc,crizotinib,positive",A,0.9911999702453613
+62,17680243,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9911999702453613
+192,23513883,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9909999966621399
+43,16957967,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9904999732971191
+24,15735135,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9904999732971191
+267,26240289,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9904000163078308
+30,16237304,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9901000261306763
+46,17106648,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9900000095367432
+82,18452216,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9897000193595886
+109,19690669,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9890999794006348
+27,16170192,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9889000058174133
+44,17043284,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9887999892234802
+77,18349856,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9886999726295471
+1,11572056,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9886999726295471
+28,16173832,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9886000156402588
+250,25722667,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9886000156402588
+14,14967958,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9884999990463257
+29,16204927,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9884999990463257
+144,21627342,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9883000254631042
+289,27040854,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.988099992275238
+128,20726426,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9876999855041504
+72,18227567,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9876999855041504
+3,12174137,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9873999953269958
+330,ASCO_80513-102,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9868999719619751
+167,22752549,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9868999719619751
+2,11760588,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9854000210762024
+238,25514801,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9832000136375427
+23,15709888,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9768999814987183
+327,ASCO_42810-74,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9761000275611877
+19,15532894,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9650999903678894
+191,23459373,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9478999972343445
+52,17450496,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.9391999840736389
+40,16730855,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9301999807357788
+42,16947044,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9291999936103821
+287,26848271,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9136000275611877
+207,24369725,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9122999906539917
+67,17945377,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.9090999960899353
+108,19680293,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.8725000023841858
+214,24729716,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.8698999881744385
+184,23302304,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.8478999733924866
+0,11510027,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.8234000205993652
+290,27056998,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.8136000037193298
+217,24840522,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.786899983882904
+201,23852459,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.767799973487854
+71,18192072,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.7580999732017517
+79,18407408,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.7563999891281128
+131,20954328,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.7486000061035156
+300,27732995,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.7192000150680542
+150,22007174,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.7091000080108643
+322,ASCO_185625-199,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.6944000124931335
+202,23931899,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.6753000020980835
+246,25682925,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.6729000210762024
+236,25373537,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.6230000257492065
+304,AACR_2012-1232,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.6126000285148621
+168,22771825,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.5925999879837036
+137,21336183,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.5741000175476074
+8,12867061,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.5597000122070312
+17,15492792,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.5467000007629395
+257,25910841,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.5406000018119812
+180,23060582,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.5327000021934509
+175,22964709,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.5231999754905701
+325,ASCO_33638-65,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.5040000081062317
+228,25101329,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.4984000027179718
+272,26450556,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.4828000068664551
+225,24982409,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.4821000099182129
+302,27760592,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.47099998593330383
+294,27322143,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.4645000100135803
+205,24300132,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.45329999923706055
+160,22443647,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.4361000061035156
+262,26018277,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.42250001430511475
+106,19667264,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.4212999939918518
+281,26712101,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.4203000068664551
+171,22866155,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.4099000096321106
+53,17504295,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.4065000116825104
+237,25458559,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.40070000290870667
+68,18006774,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.39730000495910645
+268,26278300,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.3917999863624573
+305,AACR_2012-4573,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.38690000772476196
+141,21420271,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.3801000118255615
+182,23226067,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.3736000061035156
+223,24935562,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.37310001254081726
+312,AACR_2015-4244,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.36649999022483826
+280,26710868,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.36239999532699585
+301,27756333,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.35740000009536743
+206,24361161,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.34310001134872437
+273,26505450,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.33899998664855957
+132,20979469,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.33809998631477356
+328,ASCO_43531-74,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.3368000090122223
+15,15010069,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.334199994802475
+200,23769348,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.3257000148296356
+193,23533259,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.32350000739097595
+154,22124476,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.3203999996185303
+258,25929953,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.3012000024318695
+198,23714228,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.290800005197525
+149,21933750,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.2847999930381775
+247,25704901,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.28200000524520874
+326,ASCO_42544-74,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.27709999680519104
+242,25609979,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.25929999351501465
+270,26352533,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.2567000091075897
+264,26076736,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.2533999979496002
+194,23561899,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.2468000054359436
+291,27060609,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.24420000612735748
+292,27103824,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.2409999966621399
+227,25101240,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.23829999566078186
+275,26544515,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.2363000065088272
+197,23708071,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.2362000048160553
+178,22999080,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.2353000044822693
+181,23106360,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.23389999568462372
+245,25676400,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.21850000321865082
+176,22986231,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.1826999932527542
+203,24061512,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.17640000581741333
+162,22483782,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.16619999706745148
+285,26798590,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.16060000658035278
+306,AACR_2012-4589,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.15790000557899475
+158,22311682,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.14550000429153442
+75,18312355,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.13920000195503235
+315,AACR_2017-2081,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.13660000264644623
+159,22443113,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.13650000095367432
+123,20512492,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.1356000006198883
+31,16287112,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.13369999825954437
+187,23386065,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.1298000067472458
+98,19170230,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.12520000338554382
+248,25706305,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.12359999865293503
+174,22913857,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.11959999799728394
+47,17193822,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.1177000030875206
+186,23341890,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.11599999666213989
+126,20624322,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.11349999904632568
+309,AACR_2013-4446,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.11169999837875366
+310,AACR_2013-5591,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.10830000042915344
+119,20380258,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.10180000215768814
+45,17090188,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.09619999676942825
+165,22594847,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.09279999881982803
+265,26107243,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.09200000017881393
+212,24598368,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.08950000256299973
+81,18414414,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.08709999918937683
+133,21107285,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.08640000224113464
+249,25708242,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.08470000326633453
+170,22843788,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.08259999752044678
+218,24853389,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.07930000126361847
+278,26622190,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.07400000095367432
+136,21258415,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.0731000006198883
+118,20183914,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.0722000002861023
+129,20845798,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.07079999893903732
+224,24972969,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.06949999928474426
+22,15685537,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.06610000133514404
+286,26805736,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.065700002014637
+239,25554490,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.06549999862909317
+235,25360721,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.05979999899864197
+117,20166214,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.059700001031160355
+311,AACR_2014-856,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.05779999867081642
+241,25581823,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.04659999907016754
+148,21757253,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.04100000113248825
+208,24419423,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.03999999910593033
+185,23328551,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.03680000081658363
+163,22568572,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.03610000014305115
+219,24856155,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.035100001841783524
+120,20389135,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.0333000011742115
+164,22572723,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.029600000008940697
+266,26136951,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.029100000858306885
+263,26019170,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.025800000876188278
+254,25806283,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.023800000548362732
+195,23617234,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.019899999722838402
+89,18594010,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.018699999898672104
+234,25337876,"imatinib,gastrointestinal,therapeutic use,gist,stromal,gastrointestinal stromal,imatinib mesylate,mesylate,stromal tumor,kit",B,0.017100000753998756
+105,19430004,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.013700000010430813
+220,24885803,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.01140000019222498
+107,19669326,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.011300000362098217
+143,21569690,"egfr,egfr mutation,factor,growth factor,growth,epidermal growth,epidermal,survival,genetics,nsclc",C,0.010300000198185444

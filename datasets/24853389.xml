@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document>
+  <Do_id>24853389</Do_id>
+  <Journal>Cancer</Journal>
+  <Doc_title>ALK-positive non-small cell lung cancer: mechanisms of resistance and emerging treatment options.</Doc_title>
+  <Doc_abstract>Targeted therapy has emerged as an effective treatment option for certain molecular subsets of advanced stage non-small cell lung cancer (NSCLC). The discovery of the echinoderm microtubule-associated protein like 4-anaplastic lymphoma kinase (EML4-ALK) translocation as an oncogenic driver has led to the development of novel therapies with activity in vitro and in the clinic. The first-in-class tyrosine kinase inhibitor crizotinib is effective against ALK-positive NSCLC and is currently used as first-line or salvage therapy in the setting of advanced disease. However, resistance inevitably develops through a variety of mechanisms, including point mutations affecting the fusion protein, activation of bypass signaling pathways, copy number gain of ALK, and other means. Increased understanding of these pathways is essential for tailoring treatment choices to improve outcomes and minimize toxicities. Potent second-generation ALK inhibitors currently in trials are producing encouraging results in ALK-positive NSCLC, even in patients with acquired resistance to crizotinib. The success in identifying the ALK translocations and rapidly developing targeted drugs to exploit it paves the way for a better understanding of NSCLC biology and the quest to provide effective, personalized treatment for lung cancer patients.</Doc_abstract>
+  <Doc_ChemicalList>Receptor Protein-Tyrosine Kinases;anaplastic lymphoma kinase</Doc_ChemicalList>
+  <Doc_meshdescriptors>Animals;Carcinoma, Non-Small-Cell Lung;Drug Resistance, Neoplasm;Humans;Lung Neoplasms;Receptor Protein-Tyrosine Kinases</Doc_meshdescriptors>
+  <Doc_meshqualifiers>drug therapy;enzymology;pathology;drug therapy;enzymology;pathology;metabolism</Doc_meshqualifiers>
+</Document>

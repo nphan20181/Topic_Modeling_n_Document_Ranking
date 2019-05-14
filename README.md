@@ -2,6 +2,8 @@
 
 As mentioned by [Waterford Technologies](https://waterfordtechnologies.com/big-data-interesting-facts/), "the volume of business data worldwide, across all organizations, doubles every 1.2 years". With an overwhelming amount of data available nowadays, the task of finding relevant information for a research topic may take several days, weeks, or months. This project focuses on extracting topics from a large collection of textual information to help researchers, academic professionals, and students to quickly identify relevant documents for their topics while minimizing the time and effort put into the information collection and reviewing process.
 
+### [Python Source Code](https://github.com/nphan20181/Topic_Modeling_n_Document_Ranking/blob/master/Topic_Modeling_n_Document_Ranking.ipynb)
+
 ## Dataset
 
 The dataset contains a collection of xml documents including three query topics and 333 abstracts of  scientific articles from [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) and [TREC 2017](http://www.trec-cds.org/2017.html).

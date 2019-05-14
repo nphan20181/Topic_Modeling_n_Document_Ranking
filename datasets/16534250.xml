@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document>
+  <Do_id>16534250</Do_id>
+  <Journal>Pharmacology</Journal>
+  <Doc_title>Cellular uptake of the tyrosine kinase inhibitors imatinib and AMN107 in gastrointestinal stromal tumor cell lines.</Doc_title>
+  <Doc_abstract>Imatinib and AMN107 are protein tyrosine kinase inhibitors which reduce KIT autophosphorylation with similar potency. This report describes the cellular uptake of these compounds in two human gastrointestinal stromal tumor (GIST)-derived cell lines (GIST882 and GIST GDG1), which both express constitutively activated KIT. In GIST882 and GIST GDG1 cell lines, HPLC analysis revealed AMN107 intracellular concentrations to be 7- and 10-fold greater than those of imatinib. These data indicate either increased cellular uptake or decreased cellular efflux of AMN107 when compared to imatinib in GIST cell lines. The finding suggests that AMN107 might be less susceptible to transport-driven imatinib resistance. The stable and increased exposure of GIST cells to a highly active AMN107 agent could be important in the treatment of imatinib-resistant GIST patients in whom resistance has developed as a result of changes in cellular transport mechanisms for which AMN107 is not a substrate.</Doc_abstract>
+  <Doc_ChemicalList>4-methyl-N-(3-(4-methylimidazol-1-yl)-5-(trifluoromethyl)phenyl)-3-((4-pyridin-3-ylpyrimidin-2-yl)amino)benzamide;Antineoplastic Agents;Benzamides;Piperazines;Protein Kinase Inhibitors;Pyrimidines;Imatinib Mesylate;Protein-Tyrosine Kinases</Doc_ChemicalList>
+  <Doc_meshdescriptors>Antineoplastic Agents;Benzamides;Biological Transport;Cell Line, Tumor;Cell Proliferation;Dose-Response Relationship, Drug;Drug Resistance, Neoplasm;Gastrointestinal Stromal Tumors;Humans;Imatinib Mesylate;Piperazines;Protein Kinase Inhibitors;Protein-Tyrosine Kinases;Pyrimidines</Doc_meshdescriptors>
+  <Doc_meshqualifiers>metabolism;pharmacology;drug effects;metabolism;metabolism;pharmacology;antagonists &amp; inhibitors;metabolism</Doc_meshqualifiers>
+</Document>

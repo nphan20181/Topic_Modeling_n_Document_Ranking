@@ -21,4 +21,5 @@ The dataset contains a collection of xml documents including three query topics 
         <img src="images/topic3.png" width='650px' alt='gist, kit exon, aged female' /><br />
     
  - The __abstract__ contains information about a particular type of cancer. The document’s id is same as xml file’s name. Below is a sample document:
+ 
     <img src='images/doc_sample.png' width='650px' alt='Sample Document' />

@@ -386,8 +386,8 @@ def plot_clusters_3D(x, y, X1, cluster_names, topic_labels, probs, topic_names, 
         color = cluster_color[c]
         if color not in topic_color:
             _ = ax.scatter(topic[i, 0], topic[i, 1], topic[i, 2], s=60, marker='x', c=color, 
-                    label='Topic ' + str(topic_index + 1)  + ' (' + cluster_names[c] + ')')
-                           #str(probs[cluster_names[c]]) + ' from ' + cluster_names[c] + ')')
+                    label='Topic ' + str(topic_index + 1)  + ' (' + 
+                           str(probs[cluster_names[c]]) + ' from ' + cluster_names[c] + ')')
         else:
             _ = ax.scatter(topic[i, 0], topic[i, 1], topic[i, 2], s=60, marker='x', c=color)
         topic_color.append(color)

@@ -263,7 +263,7 @@ def plot_freq_dist(texts, n_gram=1, num_words=25):
 
 def plot_docs_distribution(df, col_name, col_score_name, num_topics, topic_labels, trow_label, title,
                            width=0.3, tscale_x=1.5, tscale_y=2, num_cuts=4, pad=90,
-                           table_vals = [['Below 0.25', '0.25 to 0.5', '0.5 to 0.75', '0.75 or Higher']],
+                           table_vals = [['Below 0.25', '0.25 to 0.5', '0.5 to 0.75', '0.75 or Above']],
                            bins=[0, 0.25, 0.5, 0.75, 1], 
                            bin_labels=['Very Low','Low','Medium', 'High']):
     """ 
@@ -386,21 +386,21 @@ def plot_clusters_3D(x, y, X1, cluster_names, topic_labels, probs, topic_names, 
         color = cluster_color[c]
         if color not in topic_color:
             _ = ax.scatter(topic[i, 0], topic[i, 1], topic[i, 2], s=60, marker='x', c=color, 
-                    label='Topic ' + str(topic_index + 1)  + ' (' + 
-                           str(probs[cluster_names[c]]) + '%' + ' ' + cluster_names[c] + ')')
+                    label='Topic ' + str(topic_index + 1)  + ' (' + cluster_names[c] + ')')
+                           #str(probs[cluster_names[c]]) + ' from ' + cluster_names[c] + ')')
         else:
             _ = ax.scatter(topic[i, 0], topic[i, 1], topic[i, 2], s=60, marker='x', c=color)
         topic_color.append(color)
 
 
-    # show data table of dominant cluster for corresponding query topic
-    max_prob = max(zip(probs.values(), probs.keys()))[0]
+    # show data table of closest cluster for corresponding query topic
+    max_prob = min(zip(probs.values(), probs.keys()))[0]
     row_labels = []
     row_colors = []
     table_vals = []
     for key in probs:
         if probs[key] == max_prob:
-            row_labels.append('Dominant Cluster ' + key)
+            row_labels.append('Closest Cluster ' + key)
             table_values = [', '.join(cluster_dict['Cluster ' + key][:4])]
             table_vals.append(table_values)
             row_colors.append(cluster_color[cluster_names.index(key)])
